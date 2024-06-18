@@ -1,4 +1,4 @@
-# Google Map Trip Planner`
+# Google Map Trip Planner
 
 The utility filters places from Google Maps based on an query and exports them to a CSV file.
 
